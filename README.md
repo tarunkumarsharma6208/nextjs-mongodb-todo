@@ -35,5 +35,5 @@ mongos version v7.0.11
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/your-username/nextjs-mongodb-todo.git
+git clone https://github.com/tarunkumarsharma6208/nextjs-mongodb-todo.git
 cd nextjs-mongodb-todo
