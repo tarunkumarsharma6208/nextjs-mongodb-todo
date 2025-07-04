@@ -8,8 +8,8 @@ A simple full-stack To-Do application built using **Next.js (App Router)**, **Mo
 v22.17.0
 ## npm Version
 10.3.0
-## mongos
-mongos version v7.0.11
+## mongoose
+mongoose version v7.0.11
 
 ## 🚀 Features
 
